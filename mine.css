@@ -1,0 +1,27 @@
+body{
+    background-color: bisque;
+    text-align: center;
+    font-size: 50px;
+}
+
+.unique
+{
+    color: rgb(211, 69, 69);
+}
+P{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 50px;
+    color: blue;
+}
+ul li{
+    color: aqua;
+}
+div img{
+    width: 350;
+    cursor: pointer;
+    opacity: 0.5;
+}
+#unique-animal{
+    color: #936161;;
+}

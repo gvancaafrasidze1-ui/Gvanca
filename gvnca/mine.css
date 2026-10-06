@@ -1,0 +1,30 @@
+
+*{margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(195, 198, 93);
+}
+@font-face{
+    font-family: merabi;
+    src: url(fonts/arial_geo_[FONTS.GE].zip);
+}
+body{
+    font-family: merabi;
+    text-align: center;
+}
+header, footer{
+    background-color: rgb(186, 208, 208);
+}
+div img{
+    width: 250px;
+    text-align: ;
+}
+h1{
+    background-color: rgb(201, 210, 210);
+}
+p{
+    line-height: 10px;
+}
+img{
+    width: 350px;
+}

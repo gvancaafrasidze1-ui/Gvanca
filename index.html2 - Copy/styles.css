@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(59, 19, 153);
+    color: #ecf1f3;
+    font-size: 50px;
+}
+
+
+p{
+    color: hsl(210, 22%, 93%);
+    font-size: 50px;
+     text-align: center
+}
+
+img{
+    width: 450px;
+    cursor: pointer;
+}
+div{text-align: center
+    
+}
+.unique{
+    color: rgb(247, 255, 255);
+}
+ul li{
+    color: rgb(170, 38, 38)
+}
+:double-button
